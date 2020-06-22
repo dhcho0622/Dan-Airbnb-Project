@@ -1,4 +1,4 @@
-# Airbnb Pricing Analysis Project
+# Airbnb Pricing Linear Regression Model
 
 DSC NYC Flatiron Module 2 Project:
 By: **Daniel Cho**
