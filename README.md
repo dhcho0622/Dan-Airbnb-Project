@@ -59,4 +59,4 @@ The biggest limitation for this model is the pricing data scraped from airbnb
 
 ## Presentation 
 
-
+https://docs.google.com/presentation/d/1JBytZzNBUcXgbpcD_PzXNnfx5TFPMUTslyT4zGMAOpY/edit#slide=id.p
