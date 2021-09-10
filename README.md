@@ -1,6 +1,6 @@
 # Airbnb Pricing Linear Regression Model
 
-DSC NYC Flatiron Module 2 Project:
+Airbnb Project:
 By: **Daniel Cho**
 
 ## Introduction
@@ -56,7 +56,7 @@ The biggest limitation for this model is the pricing data scraped from Airbnb
 * Pulling pricing data from professional Airbnb rental companies such as Sonder or Domio to provide a better baseline
 * Utilize more location based features such as distance from landmarks, subways, attractions
 * Focus more on just Manhattan and Brooklyn as over 90% of listings are from just those two boroughs
-
+* Submit Project to Airbnb for potential review and introdution
 ## Presentation 
 
 https://docs.google.com/presentation/d/1JBytZzNBUcXgbpcD_PzXNnfx5TFPMUTslyT4zGMAOpY/edit#slide=id.p
